@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">About me</string>
+    <string name="name">Andrew Koltsov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id neque in dui feugiat venenatis. Cras facilisis tortor elit, imperdiet mollis elit semper eu. Ut imperdiet turpis in lorem semper cursus. Nam in justo at mauris tempus maximus. Vivamus non fermentum quam. Aliquam erat volutpat. Aenean in arcu est. Nam ac tempor ante. In vitae orci eros. Morbi ut hendrerit felis. Phasellus sapien nisl, luctus quis ante vel, bibendum lobortis tellus. Proin et sapien at risus pellentesque faucibus. Ut dui sapien, dictum ac mauris id, pellentesque finibus purus.
+
+Donec iaculis porttitor velit, ac rhoncus mi iaculis ut. Mauris vitae malesuada elit. Proin molestie, dolor at feugiat eleifend, magna nisi ultricies velit, et finibus ipsum nibh aliquam ligula. Integer eget pellentesque nisi. Pellentesque consequat turpis commodo mi luctus finibus. Proin convallis porta dolor non dignissim. Mauris ligula lacus, fermentum ac ligula in, lacinia vehicula metus. Sed condimentum hendrerit dui, in iaculis felis molestie vel. Curabitur pulvinar dolor nec tortor varius lacinia. Nunc vehicula mattis dui, non consectetur arcu molestie in. Fusce sagittis luctus eleifend. Duis orci augue, tempus a libero ut, hendrerit euismod lectus. Integer porttitor odio in pretium pellentesque.
+
+Sed quam justo, sodales in condimentum vel, sodales non sapien. Aliquam nulla ligula, volutpat et varius eget, semper quis velit. Fusce elit metus, volutpat a nibh a, interdum tempus nulla. Integer mattis justo ac ex faucibus dapibus vitae at diam. Nulla a eros eu dui laoreet egestas vitae non elit. Ut in magna id eros convallis dignissim. Phasellus euismod, diam et placerat ultricies, orci urna blandit nisl, in cursus risus nisl dictum lacus. Nullam nec gravida nibh. Vivamus tincidunt risus at est malesuada pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus non auctor sapien, at pretium purus.
+
+Fusce vel rutrum neque. Etiam elementum quis purus quis dapibus. Duis tempus magna vitae ante finibus, eu consectetur elit ultricies. Ut gravida leo metus, non sodales mi varius eget. Nunc quis auctor ligula. Vestibulum gravida enim ac placerat consequat. Duis sed metus diam. Etiam laoreet sodales elit et rhoncus. Duis quis elit eu ipsum molestie commodo.
+
+Nam ac dui tempus, scelerisque enim quis, porta lacus. Fusce vitae lacus sapien. Nulla lectus lacus, egestas id lorem eget, tempor placerat elit. Maecenas bibendum, odio non gravida molestie, nisi purus gravida urna, eu semper felis enim ut erat. Curabitur tincidunt, neque nec posuere bibendum, odio dui condimentum felis, eget vestibulum odio augue non arcu. Sed accumsan eleifend risus, congue efficitur enim interdum nec. Morbi eu consectetur erat, at vulputate ipsum. Pellentesque lectus sapien, convallis nec lacus eget, gravida interdum enim. Maecenas ligula urna, scelerisque et aliquet ut, faucibus ut lorem. </string>
 </resources>
