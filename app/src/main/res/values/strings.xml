@@ -13,4 +13,6 @@ Sed quam justo, sodales in condimentum vel, sodales non sapien. Aliquam nulla li
 Fusce vel rutrum neque. Etiam elementum quis purus quis dapibus. Duis tempus magna vitae ante finibus, eu consectetur elit ultricies. Ut gravida leo metus, non sodales mi varius eget. Nunc quis auctor ligula. Vestibulum gravida enim ac placerat consequat. Duis sed metus diam. Etiam laoreet sodales elit et rhoncus. Duis quis elit eu ipsum molestie commodo.
 
 Nam ac dui tempus, scelerisque enim quis, porta lacus. Fusce vitae lacus sapien. Nulla lectus lacus, egestas id lorem eget, tempor placerat elit. Maecenas bibendum, odio non gravida molestie, nisi purus gravida urna, eu semper felis enim ut erat. Curabitur tincidunt, neque nec posuere bibendum, odio dui condimentum felis, eget vestibulum odio augue non arcu. Sed accumsan eleifend risus, congue efficitur enim interdum nec. Morbi eu consectetur erat, at vulputate ipsum. Pellentesque lectus sapien, convallis nec lacus eget, gravida interdum enim. Maecenas ligula urna, scelerisque et aliquet ut, faucibus ut lorem. </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="button_done">Done</string>
 </resources>
